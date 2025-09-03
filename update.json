@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "device_id": "5a285f5aad7d55ef",
+        "username": "1",
+        "password": "1",
+        "expirydate": "09-1-2027",
+        "Allowoffline": false
+    }
+]
