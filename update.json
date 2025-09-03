@@ -18,6 +18,6 @@
         "username": "dev",
         "password": "1",
         "expirydate": "09-12-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
