@@ -12,5 +12,12 @@
         "password": "4",
         "expirydate": "12-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1d1b6cf70661d76e",
+        "username": "Up board ",
+        "password": "888",
+        "expirydate": "12-12-2026",
+        "Allowoffline": false
     }
 ]
