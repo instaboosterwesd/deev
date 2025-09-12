@@ -19,12 +19,5 @@
         "password": "5",
         "expirydate": "09-05-2030",
         "Allowoffline": false
-    },
-    {
-        "device_id": "5a285f5aad7d55ef",
-        "username": "6",
-        "password": "6",
-        "expirydate": "09-08-2030",
-        "Allowoffline": false
     }
 ]
