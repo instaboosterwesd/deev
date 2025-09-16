@@ -5,5 +5,12 @@
         "password": "7",
         "expirydate": "09-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8c343fe937c34d0b",
+        "username": "1",
+        "password": "1",
+        "expirydate": "12-12-2026",
+        "Allowoffline": false
     }
 ]
